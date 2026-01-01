@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hey 👋 I'm Devanshi</h1>
+<h3 align="center">ML Engineer | MLOps | Data Science</h3>
 
-<!--
-**DevanshiMishra028/DevanshiMishra028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Learning MLOps & Cloud Deployment  
+💡 Interested in real-world ML systems  
+☕ Powered by curiosity & coffee  
 
-Here are some ideas to get you started:
+### 🚀 Skills
+![Python](https://img.shields.io/badge/Python-blue)
+![ML](https://img.shields.io/badge/Machine_Learning-orange)
+![DL](https://img.shields.io/badge/Deep_Learning-black)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+✨ *Learning every day, one bug at a time.*
