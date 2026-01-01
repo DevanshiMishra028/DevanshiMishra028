@@ -32,7 +32,8 @@
 
 ### 📊 GitHub Stats
 <img
-  src="https://github-readme-stats.vercel.app/api?username=DevanshiMishra028&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+  src="https://stats-github-readme.vercel.app/api?username=DevanshiMishra028&show_icons=true&theme=tokyonight"
 />
+
 
 ✨ *Learning every day, one bug at a time.*
