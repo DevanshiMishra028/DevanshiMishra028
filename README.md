@@ -6,11 +6,11 @@
 ☕ Powered by curiosity & coffee  
 
 ### 🚀 Skills
-![Python](https://img.shields.io/badge/Python-blue)
-![ML](https://img.shields.io/badge/Machine_Learning-orange)
-![DL](https://img.shields.io/badge/Deep_Learning-black)
-![Docker](https://img.shields.io/badge/Docker-blue)
+![MLOps](https://img.shields.io/badge/MLOps-purple)
+![MLflow](https://img.shields.io/badge/MLflow-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
