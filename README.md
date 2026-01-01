@@ -6,8 +6,8 @@
 ☕ Powered by curiosity & coffee  
 
 ### 🛠 Core Skills
-- 🧠 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
-- 🤖 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 - ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -19,7 +19,7 @@
 
 
 ### 📚 Currently Learning & Improving
-- ⚙️ ![MLOps](https://img.shields.io/badge/MLOps-6A5ACD?style=for-the-badge)
+- ![MLOps](https://img.shields.io/badge/MLOps-6A5ACD?style=for-the-badge)
 - ![MLflow](https://img.shields.io/badge/MLflow-1F77B4?logo=mlflow&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 - ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
